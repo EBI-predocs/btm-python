@@ -1,3 +1,5 @@
+*These materials were used to teach "Advanced Python" at the BTM 2017.*
+
 # Advanced Python
 
 To use this notebook open a terminal and run the following commands:
